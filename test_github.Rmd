@@ -1,6 +1,7 @@
 ---
 title: "ESM 206/244 GitHub Testing"
 author: "Amy Henry"
+student: "Alisha"
 output: html_document
 ---
 
